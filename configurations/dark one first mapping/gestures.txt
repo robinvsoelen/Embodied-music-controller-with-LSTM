@@ -1,0 +1,8 @@
+---
+beneden
+midden
+hoog
+verticaal
+side
+pumping
+lower circle

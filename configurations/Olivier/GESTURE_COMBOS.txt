@@ -1,0 +1,12 @@
+strike;---;hoog
+strike;---;beneden
+strike;---;midden
+accelerometer x;---;hoog
+accelerometer x;---;beneden
+accelerometer x;---;midden
+accelerometer y;---;hoog
+accelerometer y;---;beneden
+accelerometer y;---;midden
+hoog;---;strike
+beneden;---;strike
+midden;---;strike

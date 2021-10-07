@@ -1,0 +1,2 @@
+ignore me;accelerometer x;ignore me
+side;ignore me;side

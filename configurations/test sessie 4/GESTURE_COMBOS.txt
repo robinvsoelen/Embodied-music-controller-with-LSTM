@@ -1,0 +1,8 @@
+ignore me;accelerometer x;ignore me
+side;ignore me;side
+accelerometer y;ignore me;ignore me
+ignore me;ignore me;accelerometer y
+ignore me;ignore me;accelerometer x
+accelerometer x;ignore me;ignore me
+vooruit;---;hoog
+achteruit;---;hoog

@@ -1,0 +1,20 @@
+circle;ignore me;strike
+circle;ignore me;accelerometer x
+circle;ignore me;accelerometer y
+side;ignore me;strike
+side;ignore me;accelerometer x
+side;ignore me;accelerometer y
+conducting;ignore me;strike
+conducting;ignore me;accelerometer x
+conducting;ignore me;accelerometer y
+conducting;ignore me;conducting
+side;ignore me;side
+ignore me;accelerometer x;ignore me
+circle backwards;---;strike
+circle backwards;bending;strike
+circle backwards;---;accelerometer x
+circle backwards;---;accelerometer y
+strike;---;circle
+side;bending;strike
+side;---;strike
+strike;---;side

@@ -1,0 +1,7 @@
+---
+[still] horizontal
+[still] vertical outwards
+[still] vertical inwards
+[still] down
+[still] up
+side

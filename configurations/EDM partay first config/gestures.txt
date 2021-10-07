@@ -1,0 +1,10 @@
+---
+beneden
+midden
+hoog
+verticaal
+side
+pumping
+lower circle
+drumming
+verticaal upside

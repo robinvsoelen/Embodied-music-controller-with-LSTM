@@ -1,0 +1,9 @@
+conducting;ignore me;conducting
+conducting;ignore me;accelerometer x
+circle;ignore me;strike
+circle;ignore me;accelerometer x
+circle;ignore me;accelerometer y
+conducting;ignore me;accelerometer x
+side;ignore me;side
+side;ignore me;strike
+---;ignore me;---

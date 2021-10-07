@@ -1,0 +1,21 @@
+drumming;---;drumming
+lower circle;bending;lower circle
+pumping;vibing;pumping
+lower circle;vibing;strike
+verticaal;---;accelerometer x
+verticaal;---;accelerometer y
+lower circle;---;accelerometer x
+lower circle;---;accelerometer y
+verticaal;vibing;strike
+accelerometer x;ignore me;accelerometer x
+side;ignore me;side
+hoog;vibing;beneden
+accelerometer x;ignore me;ignore me
+ignore me;ignore me;accelerometer x
+ignore me;accelerometer x;ignore me
+hoog;---;hoog
+drumming;vibing;drumming
+verticaal upside;---;verticaal upside
+verticaal upside;---;accelerometer x
+verticaal upside;---;accelerometer y
+paparazi;---;paparazi

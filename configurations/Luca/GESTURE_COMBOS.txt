@@ -1,0 +1,10 @@
+pump;---;accelerometer x
+accelerometer x;ignore me;pump
+accelerometer y;ignore me;pump
+pump;ignore me;accelerometer y
+horizontaal;ignore me;strike
+verticaal;bending;strike
+ignore me;accelerometer x;ignore me
+accelerometer x;ignore me;ignore me
+ignore me;ignore me;accelerometer x
+ignore me;jumping;ignore me

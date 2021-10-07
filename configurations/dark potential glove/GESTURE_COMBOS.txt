@@ -1,0 +1,22 @@
+ignore me;ignore me;drumming
+[still] up;ignore me;bass
+[still] up;ignore me;accelerometer x
+[still] up;ignore me;accelerometer y
+[still] horizontal;ignore me;keys
+[still] horizontal;ignore me;accelerometer x
+[still] horizontal;ignore me;accelerometer y
+ignore me;ignore me;buildup
+ignore me;ignore me;builddown
+ignore me;ignore me;accelerometer x
+ignore me;ignore me;accelerometer y
+unglitch;ignore me;ignore me
+gitch;ignore me;ignore me
+[L]down;ignore me;ignore me
+accelerometer x;ignore me;ignore me
+accelerometer y;ignore me;ignore me
+ignore me;accelerometer x;ignore me
+side;ignore me;side
+ignore me;ignore me;bass
+ignore me;ignore me;accelerometer x
+ignore me;ignore me;accelerometer y
+filter;ignore me;ignore me

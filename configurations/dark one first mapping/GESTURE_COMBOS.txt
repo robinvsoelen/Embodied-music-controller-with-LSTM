@@ -1,0 +1,18 @@
+beneden;vibing;strike
+beneden;---;accelerometer x
+beneden;---;accelerometer y
+midden;vibing;strike
+midden;---;accelerometer x
+midden;---;accelerometer y
+hoog;vibing;strike
+hoog;---;accelerometer x
+hoog;---;accelerometer y
+strike;vibing;hoog
+verticaal;vibing;strike
+side;---;side
+pumping;vibing;pumping
+lower circle;---;accelerometer x
+lower circle;---;accelerometer y
+ignore me;accelerometer x;ignore me
+verticaal;---;accelerometer x
+verticaal;---;accelerometer y
